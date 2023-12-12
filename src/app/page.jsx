@@ -8,6 +8,8 @@ export default function Home() {
     <main>
       < Welcome name="François" />
       <Counter />
+
+      <p>Hello World!</p>
     </main>
   );
 }
